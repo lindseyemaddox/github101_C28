@@ -1,9 +1,7 @@
 
-.header {
-    &&__headline {
-        color: green;
-    }
-    &&__description {
-        color: pink;
-    }
+.header__headline {
+    color: green;
+}
+.header__description {
+    color: pink;
 }
