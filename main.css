@@ -1,4 +1,9 @@
 
-.headline {
-    color: green;
+.header {
+    &&__headline {
+        color: green;
+    }
+    &&__description {
+        color: pink;
+    }
 }
